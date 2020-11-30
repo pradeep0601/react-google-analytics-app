@@ -1,25 +1,25 @@
-import logo from './logo.svg';
+import React, {Component} from 'react';
+
 import './App.css';
 
-function App() {
+import PurchaseButton from './PurchaseButton';
+
+class App extends Component {
+  render() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <h2>Google Analytics Sample App</h2>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Discount: No discount, Regular price.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>
+        <PurchaseButton></PurchaseButton>
+        </p>
       </header>
     </div>
-  );
+  )
+  };
 }
 
 export default App;
