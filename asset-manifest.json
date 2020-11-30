@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-google-analytics-app/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/react-google-analytics-app/static/js/main.dccc2d5e.chunk.js",
-    "main.js.map": "/react-google-analytics-app/static/js/main.dccc2d5e.chunk.js.map",
+    "main.js": "/react-google-analytics-app/static/js/main.2d602af1.chunk.js",
+    "main.js.map": "/react-google-analytics-app/static/js/main.2d602af1.chunk.js.map",
     "runtime-main.js": "/react-google-analytics-app/static/js/runtime-main.19e02400.js",
     "runtime-main.js.map": "/react-google-analytics-app/static/js/runtime-main.19e02400.js.map",
     "static/js/2.d329444d.chunk.js": "/react-google-analytics-app/static/js/2.d329444d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.19e02400.js",
     "static/js/2.d329444d.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.dccc2d5e.chunk.js"
+    "static/js/main.2d602af1.chunk.js"
   ]
 }
