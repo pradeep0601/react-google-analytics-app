@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-google-analytics-app/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/react-google-analytics-app/static/js/main.dc6f082c.chunk.js",
-    "main.js.map": "/react-google-analytics-app/static/js/main.dc6f082c.chunk.js.map",
-    "runtime-main.js": "/react-google-analytics-app/static/js/runtime-main.2b3ad2a3.js",
-    "runtime-main.js.map": "/react-google-analytics-app/static/js/runtime-main.2b3ad2a3.js.map",
-    "static/js/2.3602c5ac.chunk.js": "/react-google-analytics-app/static/js/2.3602c5ac.chunk.js",
-    "static/js/2.3602c5ac.chunk.js.map": "/react-google-analytics-app/static/js/2.3602c5ac.chunk.js.map",
-    "static/js/3.6f4d81a6.chunk.js": "/react-google-analytics-app/static/js/3.6f4d81a6.chunk.js",
-    "static/js/3.6f4d81a6.chunk.js.map": "/react-google-analytics-app/static/js/3.6f4d81a6.chunk.js.map",
-    "index.html": "/react-google-analytics-app/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/react-google-analytics-app/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.3602c5ac.chunk.js.LICENSE.txt": "/react-google-analytics-app/static/js/2.3602c5ac.chunk.js.LICENSE.txt"
+    "main.css": "/react-gtm-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-gtm-app/static/js/main.dc6f082c.chunk.js",
+    "main.js.map": "/react-gtm-app/static/js/main.dc6f082c.chunk.js.map",
+    "runtime-main.js": "/react-gtm-app/static/js/runtime-main.353fd3f0.js",
+    "runtime-main.js.map": "/react-gtm-app/static/js/runtime-main.353fd3f0.js.map",
+    "static/js/2.3602c5ac.chunk.js": "/react-gtm-app/static/js/2.3602c5ac.chunk.js",
+    "static/js/2.3602c5ac.chunk.js.map": "/react-gtm-app/static/js/2.3602c5ac.chunk.js.map",
+    "static/js/3.6f4d81a6.chunk.js": "/react-gtm-app/static/js/3.6f4d81a6.chunk.js",
+    "static/js/3.6f4d81a6.chunk.js.map": "/react-gtm-app/static/js/3.6f4d81a6.chunk.js.map",
+    "index.html": "/react-gtm-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-gtm-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3602c5ac.chunk.js.LICENSE.txt": "/react-gtm-app/static/js/2.3602c5ac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2b3ad2a3.js",
+    "static/js/runtime-main.353fd3f0.js",
     "static/js/2.3602c5ac.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.dc6f082c.chunk.js"
